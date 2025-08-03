@@ -81,7 +81,7 @@ def main(data_path):
     crossval = KFold(n_splits=5, shuffle=True, random_state=42)
                           
     # Split dataset into features and target variable
-    X = data.drop(['price', 'symboling', 'CarName'], axis=1)
+    X = data.drop(['car_ID', 'price', 'symboling', 'CarName'], axis=1)
     y = data['price']
 
     # Split the dataset into training and testing sets
