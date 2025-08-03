@@ -1,0 +1,6 @@
+artifact_location: file:///f:/Car_Price_Predictions/mlruns/769404352753041386
+creation_time: 1754223160693
+experiment_id: '769404352753041386'
+last_update_time: 1754223160693
+lifecycle_stage: active
+name: deploycamp_carpp_experiment

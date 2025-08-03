@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Car_Price_Predictions/mlruns/769404352753041386/2e815bdb3fb34779b1c0b2f021df72b2/artifacts
+end_time: 1754230260206
+entry_point_name: ''
+experiment_id: '769404352753041386'
+lifecycle_stage: active
+run_id: 2e815bdb3fb34779b1c0b2f021df72b2
+run_name: shivering-midge-75
+run_uuid: 2e815bdb3fb34779b1c0b2f021df72b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754230260148
+status: 3
+tags: []
+user_id: ASUS

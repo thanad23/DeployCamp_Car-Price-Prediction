@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Car_Price_Predictions/mlruns/769404352753041386/c66e71b61c0748caa840588d4de457f2/artifacts
+end_time: 1754230503560
+entry_point_name: ''
+experiment_id: '769404352753041386'
+lifecycle_stage: active
+run_id: c66e71b61c0748caa840588d4de457f2
+run_name: languid-gull-549
+run_uuid: c66e71b61c0748caa840588d4de457f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754230503505
+status: 3
+tags: []
+user_id: ASUS

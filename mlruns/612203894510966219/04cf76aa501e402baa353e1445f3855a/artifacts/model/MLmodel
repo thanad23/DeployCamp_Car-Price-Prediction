@@ -1,0 +1,40 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.17.2
+model_size_bytes: 2316514
+model_uuid: 67933d600b044a3eb361b1f1afe275e3
+run_id: 04cf76aa501e402baa353e1445f3855a
+signature:
+  inputs: '[{"type": "long", "name": "car_ID", "required": true}, {"type": "string",
+    "name": "fueltype", "required": true}, {"type": "string", "name": "aspiration",
+    "required": true}, {"type": "string", "name": "doornumber", "required": true},
+    {"type": "string", "name": "carbody", "required": true}, {"type": "string", "name":
+    "drivewheel", "required": true}, {"type": "string", "name": "enginelocation",
+    "required": true}, {"type": "double", "name": "wheelbase", "required": true},
+    {"type": "double", "name": "carlength", "required": true}, {"type": "double",
+    "name": "carwidth", "required": true}, {"type": "double", "name": "carheight",
+    "required": true}, {"type": "long", "name": "curbweight", "required": true}, {"type":
+    "string", "name": "enginetype", "required": true}, {"type": "string", "name":
+    "cylindernumber", "required": true}, {"type": "long", "name": "enginesize", "required":
+    true}, {"type": "string", "name": "fuelsystem", "required": true}, {"type": "double",
+    "name": "boreratio", "required": true}, {"type": "double", "name": "stroke", "required":
+    true}, {"type": "double", "name": "compressionratio", "required": true}, {"type":
+    "long", "name": "horsepower", "required": true}, {"type": "long", "name": "peakrpm",
+    "required": true}, {"type": "long", "name": "citympg", "required": true}, {"type":
+    "long", "name": "highwaympg", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-08-03 14:48:15.510788'

@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Car_Price_Predictions/mlruns/769404352753041386/00e3cc7a9d094199ac499ce2e6697b29/artifacts
+end_time: 1754226698251
+entry_point_name: ''
+experiment_id: '769404352753041386'
+lifecycle_stage: active
+run_id: 00e3cc7a9d094199ac499ce2e6697b29
+run_name: kindly-wasp-485
+run_uuid: 00e3cc7a9d094199ac499ce2e6697b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754226698179
+status: 3
+tags: []
+user_id: ASUS

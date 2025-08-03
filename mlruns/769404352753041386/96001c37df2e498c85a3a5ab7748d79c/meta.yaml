@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Car_Price_Predictions/mlruns/769404352753041386/96001c37df2e498c85a3a5ab7748d79c/artifacts
+end_time: 1754228415126
+entry_point_name: ''
+experiment_id: '769404352753041386'
+lifecycle_stage: active
+run_id: 96001c37df2e498c85a3a5ab7748d79c
+run_name: gifted-fowl-161
+run_uuid: 96001c37df2e498c85a3a5ab7748d79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754228415076
+status: 3
+tags: []
+user_id: ASUS
