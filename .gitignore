@@ -1,0 +1,42 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLflow local tracking files
+mlruns/
+.mlflow-props
+
+# IDE and editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files - It's good practice to not track large data files
+*.csv
+*.json
+*.sqlite3
+# If you need to track some data, you can make an exception like this:
+# !data/my_small_dataset.csv
+
+# Environment variables
+.env
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg
+*.whl
+
+# Operating System files
+.DS_Store
+Thumbs.db
